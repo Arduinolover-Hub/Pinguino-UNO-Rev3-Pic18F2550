@@ -4,9 +4,9 @@ Development Board based on the PIC18F2550, programmable in Arduino language. Use
 
 Main Features
 
--Open Source 
--Programing by Pinguino IDE 
--Works with the same Arduino Language 
+-Open Source. 
+-Programing by Pinguino IDE. 
+-Works with the same Arduino Language. 
 -17 digital pins / 5 analog pins / 2 PWM pins 
 -Same dimensiones than the Arduino UNO 
 -Same pin distribution (digital and analog) than the Arduino UNO 
