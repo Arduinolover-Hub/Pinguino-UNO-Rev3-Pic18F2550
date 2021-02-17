@@ -13,3 +13,7 @@ Main Features
 - Led SMD test inboard. 
 - We can supply the board with USB or External power supply from 9-12V
 
+Basic Pinguino Schematic Circuit
+In the bellow picture We can see the minimal connections necesary to made our board work, according to it, We can made changes and build your own board for specific projects.
+
+
