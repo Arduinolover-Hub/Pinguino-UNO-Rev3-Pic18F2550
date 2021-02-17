@@ -21,7 +21,7 @@ The gerber files are atteched in this post, and you can made and build your own 
 
 How to Order our PCB in JLCPCB?
 You have to create and user account, it is free and will keep all your order historial
-1.Upload the Gerber fileshttps://jlcpcb.com/
+1. Upload the Gerber fileshttps://jlcpcb.com/
 2. Indicate the PCB features
 3. Addyourshippingaddress
 4. Make the payment and finish the order
